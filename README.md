@@ -1,7 +1,7 @@
 ImagePlay
 =========
 
-Android devices (i.e. Android smartphones) work exactly like a digital photo frame with this app, playing images constantly.
+Android devices (i.e. Android smartphones) can work exactly like a digital photo frame with this app, playing images constantly.
 
 Version 14.04:
 1. Modify the app name.
