@@ -1,0 +1,15 @@
+android.annotation.SuppressLint
+android.annotation.TargetApi
+com.lybe.BaseActivity:
+    protected boolean isPreMark
+com.lybe.BuildConfig
+com.lybe.R
+com.lybe.R$anim
+com.lybe.R$array
+com.lybe.R$attr
+com.lybe.R$drawable
+com.lybe.R$id
+com.lybe.R$layout
+com.lybe.R$menu
+com.lybe.R$string
+com.lybe.R$style

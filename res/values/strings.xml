@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Valybe</string>
+    <string name="settings">Settings</string>
+    <string name="boot">Start Valybe as system startup</string>
+    <string name="hide">Hide</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+    <string name="dialog_exit_title">Exit Valybe?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_cancel">No</string>
+    <string name="dialog_reset_title">Reset all settings，confirm？</string>
+    <string name="dialog_no_img">No images assigned!</string>
+    <string name="dialog_to_know_how">How to use</string>
+    <string name="dialog_gotit">Got it.</string>
+    <string name="dialog_sdi">All existing images will be deleted，confirm？</string>
+    <string name="delay_title">Play each image for</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset all settings</string>
+    <string name="dialog_charge_title">Go to settings? 
+        (Press \"Yes\" to settings page, \"No\" to play images)</string>
+    <string name="no_remind">Hide prompt dialog next time</string>
+    <string name="no_charge_dialog">Hide prompt dialog as device charged</string>
+    <string name="charge_boot">Start Valybe as device charged</string>
+    <string name="help">Help</string>
+    <string name="help_title_what">What is \"Valybe\"</string>
+    <string name="help_content_what">\"Valybe\" is an Android app to play images, 
+        which is to display images dynamically, constantly and periodically. 
+        Users could set images and duration of each image. 
+        The app makes an Android device work as a digital photo frame. 
+        It can also be regarded as an screen saver when devices charged.</string>
+    <string name="help_title_how">How to set images</string>
+    <string name="help_content_how">
+        Copy images to the directory \"valybe/image/\" in the SD card Storage. 
+        It is no need to modify names of these images manually. 
+        Only images in \".jpg\" and \".png\" format can be recognized. 
+        Images with other extensions and files in other format will be deleted as Valybe runs.</string>
+    <string name="about">About</string>
+    <string name="about_detail">Tianwei Liu . Dalian University of Technology</string>
+    <string name="set_default_img">Use default images</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">有电播放</string>
+    <string name="settings">设置</string>
+    <string name="boot">开机自动运行</string>
+    <string name="hide">隐藏</string>
+    <string name="back">返回</string>
+    <string name="exit">退出</string>
+    <string name="dialog_exit_title">退出？</string>
+    <string name="dialog_yes">是的</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_reset_title">信息将设置为默认初始值，确定继续？</string>
+    <string name="dialog_no_img">尚未设置播放所使用的图片</string>
+    <string name="dialog_to_know_how">了解如何设置</string>
+    <string name="dialog_gotit">了解</string>
+    <string name="dialog_sdi">如果有已设置的播放图片，则将被删除，是否继续？</string>
+    <string name="delay_title">每张图片播放时间：</string>
+    <string name="save">保存</string>
+    <string name="reset">点击重置信息为默认值</string>
+    <string name="dialog_charge_title">进入设置？（“确认”进入设置界面，“返回”直接开始播放）</string>
+    <string name="no_remind">不再提示</string>
+    <string name="no_charge_dialog">充电启动时不提示对话框</string>
+    <string name="charge_boot">充电时自动启动</string>
+    <string name="help">如何设置播放的图片</string>
+    <string name="help_title_what">“有电播放”是什么？</string>
+    <string name="help_content_what">“有电播放”是一款图片播放的应用。“图片播放”是指持续循环地播放指定的
+        图片，同时用户可以自行设定每张图片的持续时间，其概念区别于系统功能“图片浏览”。该应用使设备具有动态
+        电子相册的功能，也可视作播放图片的屏幕保护。</string>
+    <string name="help_title_how">如何设置图片？</string>
+    <string name="help_content_how">将播放所使用的图片，复制到sd卡的“valybe/image/”目录下（不必更改图片名
+        称），即可在播放时被使用。仅.jpg和.png格式的图片可被识别，其他格式的图片或非图片文件将在应用的运行
+        过程中自动被删除 。  </string>
+    <string name="about">作者信息</string>
+    <string name="about_detail">大连理工大学软件学院.刘天威</string>
+    <string name="set_default_img">使用默认图片</string>
+</resources>
