@@ -7,7 +7,8 @@ Android devices (i.e. Android smartphones) can work exactly as a digital photo f
 1. Fix two deprecated methods.  
 2. Add English version for GUI.  
 3. Change source code encoding from GBK to UTF-8.
-4. Translate comments into English.  
+4. Set the target SDK version as 19 (Android 4.4.2) and set the minimum SDK version as 16 (Android 4.1.2)  
+5. Translate comments into English.  
 
 ##License##
 
