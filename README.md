@@ -1,5 +1,5 @@
 Valybe: a digital photo frame on the phone
-==
+
 
 Android devices (i.e. Android smartphones) can work exactly like a digital photo frame with this app, playing images constantly.
 
